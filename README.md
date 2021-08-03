@@ -1,4 +1,5 @@
 # KitsuneOffline
+Modded version of KitsuneOffline for the Freedom Dive mod in the swimming game.
 Local Offline version of Kitsune Google Doodle, (Doodle Champion Island Games) 
 useful if you want to play without internet (or just want to mod the game)
 
